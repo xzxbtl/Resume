@@ -80,8 +80,8 @@
 ![Main](https://github.com/xzxbtl/Resume/blob/main/cewK3dcrSTE.jpg?raw=true)
 ![Second](https://github.com/xzxbtl/Resume/blob/main/pDs7eLjTbJ0.jpg?raw=true)
 ![Third](https://github.com/xzxbtl/Resume/blob/main/yFq9ryp3xnc.jpg?raw=true)
-![Four](https://github.com/xzxbtl/Resume/blob/main/cdvbELCxDfs.jpg?raw=true)
-![Five](https://github.com/xzxbtl/Resume/blob/main/FnZSyTbEjzA.jpg?raw=true)
+![Four](https://github.com/xzxbtl/Resume/blob/main/FnZSyTbEjzA.jpg?raw=true)
+![Five](https://github.com/xzxbtl/Resume/blob/main/cdvbELCxDfs.jpg?raw=true)
 ![Six](https://github.com/xzxbtl/Resume/blob/main/R68Y1__91HM.jpg?raw=true)
 
 **[SITE DJANGO]("https://github.com/xzxbtl/djnagoproject")**
