@@ -97,8 +97,8 @@
 #   AND OTHER PROJECTS
 
 ## MY LINKS
-**VK** --> [TG](https://t.me/qxzxbtlqq) \
-**TELEGRAM** --> [VK](https://vk.com/xxzxbtl) \
+**VK** --> [VK](https://vk.com/xxzxbtl) \
+**TELEGRAM** --> [TG](https://t.me/qxzxbtlqq) \
 **GITHUB** -->  [GITHUB](https://github.com/xzxbtl)
 
 ![CAT ^_^](https://media1.tenor.com/m/dmYFpSnH7oYAAAAC/anime-cat-anime-cat-eating.gif)
