@@ -69,7 +69,7 @@
 
 **[LAST FLAT APP]("https://github.com/xzxbtl/ToDoApp")** 
 
-![MainMenu]([https://downloader.disk.yandex.ru/preview/4dff11fab8ee7d76b0dd92c7e317846a0ee473fc13d9602f359d078f1a2a2ab3/666f7511/7UcFUveunguPiNV83hxinW4ZvrXq6lbfusXl8T55xEztJA5EMK_NWMKkz-afJy8PJcP_W3TyGq888yrM3L4bSA%3D%3D?uid=0&filename=9NekgTP-zVs.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048](https://downloader.disk.yandex.ru/preview/57fffed24180a0fd919d37ad9908674f20abe4da62ba29d9fbd8e5ef70245999/66880160/7UcFUveunguPiNV83hxinW4ZvrXq6lbfusXl8T55xEztJA5EMK_NWMKkz-afJy8PJcP_W3TyGq888yrM3L4bSA%3D%3D?uid=0&filename=9NekgTP-zVs.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048))
+![MainMenu](https://github.com/xzxbtl/Resume/blob/main/9NekgTP-zVs.jpg?raw=true)
 
 ![EditTask](https://downloader.disk.yandex.ru/preview/3ddc1f23d8522128925f194843518f671d78b0f655a7454f892f0ac011763259/6677589f/89R6vv9OJw7kv7eYjZvvfW4ZvrXq6lbfusXl8T55xEzNMO1MckpmicTSZfYZ70ovqOEJiHQXKHevL1FkHOh-vw%3D%3D?uid=0&filename=showtaskedits.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
 
