@@ -37,7 +37,7 @@
 -   **DE** - *capable of reading and pronunciation*.
   
 #### PROGRAMMING
--   **PYTHON** - *clear language, familiar with all OOP applications and many libraries, applications (**django, drf, aiogram, bs, requests, httpx, sqlite, sqlalchemy, flat, tkinter and others**)...*
+-   **PYTHON** - *clear language, familiar with all OOP applications and many libraries, applications (**django, drf, aiogram, bs, requests, httpx, sqlite, sqlalchemy, flet, tkinter and others**)...*
 -   **JS** - *I am actively studying, at the moment I am familiar with the basic syntax and integration into web pages with simple functionality.*
   
 -   **C#** - *I am only familiar with the basic syntax, loops, functions, classes.*
