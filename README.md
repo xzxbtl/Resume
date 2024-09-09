@@ -6,7 +6,7 @@
 *My name* : __Aleksey__. \
 *old* : __18__. \
 *country* : __Russia__. \
-*sity* : __Penza__.
+*city* : __Penza__.
 
 *I am a responsible and purposeful person.* 
 
