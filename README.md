@@ -47,7 +47,7 @@
 
 ### MAIN STACK
 **Web or Bots** : \
-    ***Django, DRF, disnake.py, aiogram, flat.***
+    ***Django, DRF, disnake.py, aiogram, flet.***
 
 ### RU
 
