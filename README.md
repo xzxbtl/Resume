@@ -37,7 +37,7 @@
 -   **DE** - *capable of reading and pronunciation*.
   
 #### PROGRAMMING
--   **PYTHON** - *clear language, familiar with all OOP applications and many libraries, applications (**django, drf, aiogram, bs, requests, httpx, sqlite, sqlalchemy, flet, tkinter and others**)...*
+-   **PYTHON** - *clear language, familiar with all OOP applications and many libraries, applications (**FASTAPI, django, drf, aiogram, bs, requests, httpx, sqlite, sqlalchemy, flet, tkinter and others**)...*
 -   **JS** - *I am actively studying, at the moment I am familiar with the basic syntax and integration into web pages with simple functionality.*
   
 -   **C#** - *I am only familiar with the basic syntax, loops, functions, classes.*
@@ -47,7 +47,7 @@
 
 ### MAIN STACK
 **Web or Bots** : \
-    ***Django, DRF, disnake.py, aiogram, flet.***
+    ***FAST API (Pydantic + sqlaclhemy), Django, DRF, disnake.py, aiogram, flet.***
 
 ### RU
 
@@ -57,7 +57,7 @@
 -   **Немецкий** - *Способен читать и косвенно знаком*.
 
 #### Программирования
--   **PYTHON** - *Основной моя язык, знаком с принцапами ООП и знаю библиотеки на подобие этих (**django, drf, aiogram, bs, requests, httpx, sqlite, sqlalchemy, flet, tkinter and others**)...*
+-   **PYTHON** - *Основной моя язык, знаком с принцапами ООП и знаю библиотеки на подобие этих (**FASTAPI, django, drf, aiogram, bs, requests, httpx, sqlite, sqlalchemy, flet, tkinter and others**)...*
 -   **JS** - *Активно учу и практикуюсь в данном языке, в ближайшей перспективе улучшить уровень владения языком.*
   
 -   **C#** - *Знаком с базовым синтаксисом, способен писать программы на нем, знаком с построением классов*
