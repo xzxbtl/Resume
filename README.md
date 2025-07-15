@@ -3,7 +3,7 @@
 # 👋 Привет, я Алексей
 ### Python Backend-разработчик из Пензы
 
-<img src="https://media1.tenor.com/m/b_CQSgcIiZsAAAAd/umi-tof.gif" width="200">
+<img src="https://media1.tenor.com/m/b_CQSgcIiZsAAAAd/umi-tof.gif" width="400">
 
 `18 лет` | `Россия` | `Готов к релокации` | `Открыт для предложений`
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
 </p>
 
 ### 🗃 Базы данных
@@ -60,9 +60,9 @@
 
 **Технологии:** Python, aiogram, PostgreSQL, Redis, Docker
 
-<img src="https://github.com/xzxbtl/Resume/blob/main/firstport1.jpg?raw=true" width="250">
-<img src="https://github.com/xzxbtl/Resume/blob/main/firstport2.jpg?raw=true" width="250">
-<img src="https://github.com/xzxbtl/Resume/blob/main/firstport3.jpg?raw=true" width="250">
+<img src="https://github.com/xzxbtl/Resume/blob/main/firstport1.jpg?raw=true" width="400">
+<img src="https://github.com/xzxbtl/Resume/blob/main/firstport2.jpg?raw=true" width="400">
+<img src="https://github.com/xzxbtl/Resume/blob/main/firstport3.jpg?raw=true" width="400">
 
 ---
 
@@ -117,4 +117,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xzxbtl@mail.ru)
 
 
-<img src="https://media1.tenor.com/m/dmYFpSnH7oYAAAAC/anime-cat-anime-cat-eating.gif" width="200">
+<img src="https://media1.tenor.com/m/dmYFpSnH7oYAAAAC/anime-cat-anime-cat-eating.gif" width="400">
